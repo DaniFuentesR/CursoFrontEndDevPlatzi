@@ -1,0 +1,8 @@
+HTML SEMANTICO
+
+Nos indica que tenemos que utilizar las etiquetas adecuadas para cada parte del cuerpo del html. Esto ayuda a:
+
+1. Ayuda al sitio a ser mas accesible
+2. Mejor el posicionamiento SEO 
+3. Tener un código más claro. 
+

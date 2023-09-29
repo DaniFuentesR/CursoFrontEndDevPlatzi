@@ -1,0 +1,17 @@
+Cuando escribimos el html y el css en nuestro editor de codigo, con cierta sintaxis, el navegador no entiende lo que escribimos en codigo. Por lo que cada navegador tiene un motor que traduce el codigo en render, es decir en una forma que el navegador entienda y que permita pintar en pixeles para poderlo visualizar.
+
+Chrome => Blink
+Edge => Edge html
+Safari => webkit
+FireFox => Gecko
+
+Todos los motores basicamente hacen lo mismo para pasar los archivos a pixeles. 
+
+Proceso para transformar el codigo en pixeles y renderizarlo: 
+
+1. Pasa los archivos a objetos por medio del DOM (Document Object Model)
+2. Calcula el estilo correspondiente a cada nodo del DOM
+3. Calcula las dimensiones de cada nodo y donde va en la pantalla
+4. Pinta las diferentes cajas. 
+5. Toma las capas y las convierte en una imagen para mostrar en la pantalla. 
+

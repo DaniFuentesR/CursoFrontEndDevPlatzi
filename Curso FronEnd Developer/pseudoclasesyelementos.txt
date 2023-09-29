@@ -1,0 +1,17 @@
+Las pseudoclases nos permite llegar a aquellas acciones que hace un usuario, como por ejemplo darle click a un boton.
+
+Tipos de pseudoclases:
+    1. :active
+    2. :focus
+    3. :hover
+    4. :nth-child(n)
+
+Los pseudoelementos son aquellos que nos permiten acceder a elementos de html.
+
+Tipos de pseudoelementos:
+
+    1. :: after
+    2. :: before
+    3. :: first-letter
+    4. ::placeholder
+

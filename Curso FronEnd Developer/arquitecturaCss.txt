@@ -1,0 +1,31 @@
+1. OOCSS:
+    Consiste en tener objetos, que son estructuras principales, y estas estructuras van a a estar encapsuladas en mascaas y basicamente lo que se va a modificar es esa mascara, pero la estrcutura principal se va a mantener intacta.
+
+2. BEM: 
+    Significa Bloque, elemento y modificador.
+
+    - Bloque: Contenedor principal del componente 
+        ej: card, button, form, menu, header...
+
+    - Elemento: Partes internas que conforman el componente
+        ej: icon, text, item, image, input, button...
+
+    - Modificador: Son las variaciones del bloque o elemento
+        ej: active, big, right, secondary, red...
+
+
+3. SMACSS:
+    Nos indica el orden en que podemos estructurar nuestros componentes o elementos de html en las diferentes carpetas en diferentes estructuras y al final los junta todos y eso es SMACSS
+
+4. Triangulo invertido de CSS o ITCSS:
+    Nos indica poder hacer una separación en ajustes, herramientas etc. Mejora el tema de espeficidad, magnitud, etc.
+
+5. Atomic Design:
+
+    Atomos = button, input..
+    Moleculas = Agrupacion de los atomos, puede ser un input con un boton.
+    Organismos = Son varias moleculas juntas. 
+    Templates
+    Paginas
+
+

@@ -1,0 +1,22 @@
+Hay diferentes tipos de selectores: 
+
+SELECTORES BÁSICOS:
+    - De tipo => div {}
+    
+    - De clase => .elemento{}
+
+    - De ID => #id-del-elemento{}
+
+    - De atributo => a[href=""]{}
+
+    - universal => *{}
+
+
+SELECTORES COMBINADORES: 
+    -Descendientes: div p 
+
+    - Hijo Directo: div > p
+
+    - Elemento Adyacente(Uno debajo del otro): div + p 
+
+    - General de Hermanos: div - p 

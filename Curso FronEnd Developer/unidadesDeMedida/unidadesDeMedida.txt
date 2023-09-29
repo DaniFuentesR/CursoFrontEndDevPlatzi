@@ -1,0 +1,8 @@
+1. Medidas Absolutas: Son medidas que no dependen de nadie mas para ser ellas mismas. 
+    Ej: 20px => todo todaba el tamaño de 20px
+
+2. Medidas Relativas => Son unidades de medida que si dependen de alguien mas. Hay que tener en cuenta el tamaño de la pantalla donde estamos trabajando.
+    Ej: % => Se adaptan a otros elementos que tengamos anteriormente
+        rem => por defecto el fontsize es de 16px, por lo que el rem se adapta automaticamente a esa medida, 
+        vmin =>
+        vheight => 

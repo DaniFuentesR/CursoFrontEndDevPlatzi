@@ -1,0 +1,8 @@
+Especificidad de mayor a menor en CSS: 
+
+    1. !important
+    2. Estilos en linea
+    3. #id
+    4. clases, atributos, pseudoclases
+    5. Elementos y pseudoelementos
+    6. Selector Universal
